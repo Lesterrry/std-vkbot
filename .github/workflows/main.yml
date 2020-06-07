@@ -24,4 +24,4 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Perform php server script
-      run: curl https://api.fetchdev.host/service.php?apikey=0295436285034&mode=stdvkbotclone 
+      run: curl 'https://api.fetchdev.host/service.php?apikey=0295436285034&mode=stdvkbotclone'
