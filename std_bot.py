@@ -7,8 +7,8 @@ ALL RIGHTS RESERVED
 '''''''''''''''''''''''''''''
 
 #CHANGEABLE AREA
-KEYWORDS = ["1", "2", "3"]
-ANSWERS =  ["one", "two", "three"]
+KEYWORDS = ["1", "2", "3", "4"]
+ANSWERS =  ["one", "two", "three", "four"]
 
 #DEVELOPMENT AREA, DO NOT CHANGE
 import vk_api
