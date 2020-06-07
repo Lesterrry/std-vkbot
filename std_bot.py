@@ -7,7 +7,7 @@ ALL RIGHTS RESERVED
 '''''''''''''''''''''''''''''
 
 #CHANGEABLE AREA
-KEYWORDS = ["1","2"]
+KEYWORDS = ["1", "2"]
 ANSWERS =  ["one", "two"]
 
 #DEVELOPMENT AREA, DO NOT CHANGE
